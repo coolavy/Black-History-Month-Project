@@ -25,6 +25,7 @@ Sing a song full of the faith that the dark past has taught us,\n
 Sing a song full of the hope that the present has brought us.\n
 Facing the rising sun of our new day begun,\n
 Let us march on till victory is won.\n
+==========\n
 Stony the road we trod,\n
 Bitter the chastening rod,\n
 Felt in the days when hope unborn had died;\n
@@ -35,7 +36,8 @@ We have come over a way that with tears has been watered,\n
 We have come, treading our path through the blood of the slaughtered,\n
 Out from the gloomy past,\n
 Till now we stand at last\n
-Where the white gleam of our bright star is cast.\n\n
+Where the white gleam of our bright star is cast.\n
+==========\n
 God of our weary years,\n
 God of our silent tears,\n
 Thou who hast brought us thus far on the way;\n
