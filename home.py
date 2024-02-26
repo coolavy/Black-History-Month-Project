@@ -11,4 +11,4 @@ new_title = "<div class=\"container\">"\
             "</div>"
 
 st.markdown(new_title, unsafe_allow_html=True)
-st.markdown("By Sid and Avyan #328")
+st.markdown("By Sid and Avyan, Room 328")
