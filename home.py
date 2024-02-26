@@ -10,10 +10,5 @@ new_title = "<div class=\"container\">"\
             "</div>"\
             "</div>"
 
-# Display the custom title
-st.markdown(new_title, unsafe_allow_html=True)   
-
-# Image and caption
-col1, _ = st.columns([1, 2])
-with col1:
-    st.image("images/james-weldon-johnson.jpg", width=435, caption='James Weldon Johnson')
+st.markdown(new_title, unsafe_allow_html=True)
+st.markdown("By Sid and Avyan #328")
